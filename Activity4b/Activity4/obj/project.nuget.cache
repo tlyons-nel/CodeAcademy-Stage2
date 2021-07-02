@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxqzKKHtsGBO6e9Wbo4fQHFaPVXsAHHS+qOyyU2yFemPvo4zeT1hcb5vfyqSCec/rX8tTBJ+1FKlZkemUWLRIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tlyons\\Desktop\\CodeAcademy\\Stage2\\Activity4b\\Activity4\\Activity4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tlyons\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512",
+    "C:\\Users\\tlyons\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tlyons\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tlyons\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\tlyons\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.csproj.AssemblyReference.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.AssemblyInfoInputs.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.AssemblyInfo.cs
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.csproj.CoreCompileInputs.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Activity3.exe
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Activity3.deps.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Activity3.runtimeconfig.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Activity3.runtimeconfig.dev.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Activity3.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Activity3.pdb
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Schema.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.csproj.CopyComplete
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.pdb
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity3\Activity3\obj\Debug\netcoreapp3.1\Activity3.genruntimeconfig.cache

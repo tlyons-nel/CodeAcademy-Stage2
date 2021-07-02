@@ -1,0 +1,13 @@
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\bin\Debug\netcoreapp3.1\Activity7.exe
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\bin\Debug\netcoreapp3.1\Activity7.deps.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\bin\Debug\netcoreapp3.1\Activity7.runtimeconfig.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\bin\Debug\netcoreapp3.1\Activity7.runtimeconfig.dev.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\bin\Debug\netcoreapp3.1\Activity7.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\bin\Debug\netcoreapp3.1\Activity7.pdb
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\obj\Debug\netcoreapp3.1\Activity7.csproj.AssemblyReference.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\obj\Debug\netcoreapp3.1\Activity7.AssemblyInfoInputs.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\obj\Debug\netcoreapp3.1\Activity7.AssemblyInfo.cs
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\obj\Debug\netcoreapp3.1\Activity7.csproj.CoreCompileInputs.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\obj\Debug\netcoreapp3.1\Activity7.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\obj\Debug\netcoreapp3.1\Activity7.pdb
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\Activity7\Activity7\obj\Debug\netcoreapp3.1\Activity7.genruntimeconfig.cache

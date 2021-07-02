@@ -1,0 +1,10 @@
+var contacts = ReadContactsFile();
+var links = ReadContactToBusinessLinkFile();
+
+var mostUsed = links.GroupBy(ctcGroup => ctcGroup).OrderBy(ctcOrderBy => ctcOrderBy.Count()).Last().Key;
+var mostCtc = contacts.Where(theCtc => theCtc.Id == mostUsed.ContactId).FirstOrDefault();
+Console.WriteLine($" Contact id: {mostCtc.Id } has the most businesses associated to it: {mostCtc.FirstName} {mostCtc.LastName}" );
+
+var least = links.GroupBy(ctcGroup => ctcGroup).OrderBy(ctcOrderBy => ctcOrderBy.Count()).First().Key;
+var leastCtc = contacts.Where(theCtc => theCtc.Id == least.ContactId).FirstOrDefault();
+Console.WriteLine($" Contact id: {leastCtc.Id } was used more than once & was used the least: {leastCtc.FirstName} {leastCtc.LastName}");

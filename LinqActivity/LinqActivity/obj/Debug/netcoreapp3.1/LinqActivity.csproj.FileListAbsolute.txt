@@ -1,0 +1,13 @@
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\bin\Debug\netcoreapp3.1\LinqActivity.exe
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\bin\Debug\netcoreapp3.1\LinqActivity.deps.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\bin\Debug\netcoreapp3.1\LinqActivity.runtimeconfig.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\bin\Debug\netcoreapp3.1\LinqActivity.runtimeconfig.dev.json
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\bin\Debug\netcoreapp3.1\LinqActivity.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\bin\Debug\netcoreapp3.1\LinqActivity.pdb
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\obj\Debug\netcoreapp3.1\LinqActivity.csproj.AssemblyReference.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\obj\Debug\netcoreapp3.1\LinqActivity.AssemblyInfoInputs.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\obj\Debug\netcoreapp3.1\LinqActivity.AssemblyInfo.cs
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\obj\Debug\netcoreapp3.1\LinqActivity.csproj.CoreCompileInputs.cache
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\obj\Debug\netcoreapp3.1\LinqActivity.dll
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\obj\Debug\netcoreapp3.1\LinqActivity.pdb
+C:\Users\tlyons\Desktop\CodeAcademy\Stage2\LinqActivity\LinqActivity\obj\Debug\netcoreapp3.1\LinqActivity.genruntimeconfig.cache
